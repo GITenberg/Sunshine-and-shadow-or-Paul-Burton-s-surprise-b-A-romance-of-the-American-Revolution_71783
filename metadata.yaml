@@ -1,11 +1,16 @@
 _repo: Sunshine-and-shadow-or-Paul-Burton-s-surprise-b-A-romance-of-the-American-Revolution_71783
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71783-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Julia A.
     gutenberg_agent_id: '56397'
     url: http://www.gutenberg.org/2009/agents/56397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71783#Sunshine-and-shadow-or-Paul-Burton-s-surprise-b-A-romance-of-the-American-Revolution
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71783'
